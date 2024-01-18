@@ -301,6 +301,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Java Interview Questions & Quizzes](https://www.techbeamers.com/java-interview-questions/)
 * [Essetial Java Interview Questions](https://fdk.codes/some-java-interview-questions/)
 * [Fundamental Java Interview Questions](https://www.interviewbit.com/java-interview-questions/)
+* [Top 50 Spring Boot Interview Questions](https://www.edureka.co/blog/interview-questions/spring-boot-interview-questions/)
 
 ### JavaScript
 
